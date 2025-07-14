@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Everyone Drinks",
+    "description": "Cheers! Everyone takes a sip.",
+    "img_name": "drink",
+    "img_file_type": "jpg"
+  },
+  {
+    "title": "Spin the Bottle",
+    "description": "Play one round of spin the bottle.",
+    "img_name": "bottle",
+    "img_file_type": "jpg"
+  },
+  {
+    "title": "On Your Phone",
+    "description": "Anyone on their phone right now must drink.",
+    "img_name": "",
+    "img_file_type": ""
+  }
+]
